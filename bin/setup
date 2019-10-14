@@ -5,5 +5,3 @@ bundle install
 
 echo
 echo '== Tudo configurado, pode iniciar ;) =='
-echo
-
